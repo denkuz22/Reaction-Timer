@@ -1,5 +1,10 @@
 # reaction-time
 
+## Project functionality
+```
+sdfsdf
+```
+
 ## Project setup
 ```
 npm install
